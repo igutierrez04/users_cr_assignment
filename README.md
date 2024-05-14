@@ -1,6 +1,7 @@
 Users CR (create, read) Assignment
 
 Assignment list
+
     - Use the users_schema created in the MySQL course
     - Create a new Flask project
     - Create 2 html pages, Read (All) and Create
